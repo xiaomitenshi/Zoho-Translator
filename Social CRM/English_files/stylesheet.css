@@ -1,0 +1,1275 @@
+@import url('https://helpcenterclienthtmlworks.zohodesk.com/portal/api/kbArticles/145742000001474001/locale/en/attachments/e5jywad33903456fe4c91a03a3d6fce35e644/content?portalId=edbsnf1fd807d0fb65e7a3793f3b7304ce2c82ca6dc57446f0d871a697a4cac6f75ca&inline=false');
+/*@import url('https://helpcenterclienthtmlworks.zohodesk.com/portal/api/kbArticles/145742000001474001/locale/en/attachments/2douyb3e9b7ac2d5d4945be4c6a2b7a8aad8d/content?portalId=edbsnf1fd807d0fb65e7a3793f3b7304ce2c82ca6dc57446f0d871a697a4cac6f75ca&inline=false');*/
+
+.zohodesk-resources-new{
+ position:relative; 
+}
+.zc-product-subcriptions,.sharesnippet{
+ display:none !important; 
+}
+.sharesnippet{
+  position:relative;
+  margin-top:20px;
+}
+
+.sharesnippet a{
+ 	position:absolute;
+  	width:100%;
+    height:100%;
+  	left:0px;
+  	top:0px;
+} 
+.zohoone .d_digist_oct{display:block!important;padding-bottom:1.6rem}
+.zohodeveloper .d_digist_oct{display:block!important;padding-bottom:1.6rem}
+.zohocrmdeveloper .d_digist_oct{display:block!important;padding-bottom:1.6rem}
+.zohocliq .cliqoneone{display:block!important;padding-bottom:1.6rem}
+/*CRM Plus and Marketing Plus KB and Community Banner*/
+.crm_mktg_plus_newto{max-width: 320px;width: 100%;padding:20px;position: relative;overflow:hidden}
+.crm_mktg_plus_newto .new_to_hd{color:#fff;font-size: 1.2rem;margin-bottom: 15px}
+.crm_mktg_plus_newto .new_to_hd,.crm_mktg_plus_newto .new_to_btn{font-weight: 700;font-family: "Latoregular",sans-serif}
+.crm_mktg_plus_newto .new_to_btn{cursor: pointer;text-transform: uppercase;padding:8px 18px;display: inline-block;border-radius: 20px;text-decoration: none;color:#000;font-size: 0.9rem;position: relative;z-index: 1}
+.crm_mktg_plus_newto:after{position: absolute;content: url('https://desk.zoho.com/galleryDocuments/edbsn44004c8e79a57797b117d775457c5cf9cf381741ba880e4bdab3c906b1d90d63943ca120985199492c16ee3c60ed5196?inline=true');right:0;bottom:-36px}
+.crmPlus_bann .crm_mktg_plus_newto{background:#006cff}
+.crmPlus_bann .crm_mktg_plus_newto .new_to_btn{background:#ffd200}
+.mkPlus_bann .crm_mktg_plus_newto{background:#2c2c2c}
+.mkPlus_bann .crm_mktg_plus_newto .new_to_btn{background:#d23246;color:#fff}
+/*CRM Plus and Marketing Plus KB and Community Banner*/
+/*PageSense cross Promotional banner css*/
+portal.bigin.mobile img{vertical-align:middle}
+.pagesense_cross_promo_widget,
+.crmPlus_kb_banner,.crmPlus_fm_banner,.mkPlus_kb_banner,.mkPlus_fm_banner{display:none}
+.articleList.crmplus .crmPlus_kb_banner,.articleDetail.crmplus .crmPlus_kb_banner,
+.communityList.zohocrmplus .crmPlus_fm_banner,.communityDetail.zohocrmplus .crmPlus_fm_banner,
+.articleList.marketingplus .mkPlus_kb_banner,.articleDetail.marketingplus .mkPlus_kb_banner,
+.communityList.zohomarketingplus .mkPlus_fm_banner,.communityDetail.zohomarketingplus .mkPlus_fm_banner{display:block}
+.backstage .pagesense_cross_promo_widget,.zohobackstage .pagesense_cross_promo_widget{display:block}
+/* US data center css start here*/
+.mail_forum_widgets > div{display:none}
+.usingzohomail .mail_forum_widgets div.using_zoho_mail,
+.usingcontrolpanel .mail_forum_widgets div.using_control_pannel,
+.usingtasks\&notes .mail_forum_widgets div.using_notes_and_tasks,
+.partnerspeakonmail .mail_forum_widgets div.partner_speak_on_mail,
+.communitylearningseries .mail_forum_widgets div.community_learning_series,
+.zohomailmobileapp .mail_forum_widgets div.zoho_mail_mobile_app {display:block}
+.zohocrm .z_focus_group_banner,
+.zohosalesiq .z_focus_group_banner,
+.zohoone .z_focus_group_banner,
+.zohocrmplus .z_focus_group_banner,
+.zohocliq .z_focus_group_banner,
+.zohodeveloper .z_focus_group_banner{display:block!important}
+.zohobooks .z_finance_workshop_banner,
+.zohoinventory .z_finance_workshop_banner,
+.zohoone .z_finance_workshop_banner,
+.zohoinvoice .z_finance_workshop_banner,
+.zohoexpense .z_finance_workshop_banner,
+.zohoanalytics .z_finance_workshop_banner,
+.zohomail .z_finance_workshop_banner,
+.zohocommerce .z_finance_workshop_banner,
+.zohobilling .z_finance_workshop_banner,
+.zohoworkplace .z_finance_workshop_banner{display:block!important}
+
+.zohocrm .zdh_banner,
+.zohoone .zdh_banner,
+.zohocrmplus .zdh_banner,
+.zohodeveloper .zdh_banner{display:block!important}
+.ticketForm #tickerform_fields_container:before,
+.topicForm .Layout__layout1 .TopicForm__wrapper:before{
+   content:"Zoho Corporation's Help Center is hosted in our US data center";
+  font-size:16px;
+  padding:15px 20px;
+  display: block;
+  margin-bottom: 10px;
+  border: 1px solid #feea91;
+  background-color: #fefff4;
+  border-radius:0.1875rem;
+  font-weight:bold
+}
+.ticketForm .TicketFormLeftContainer__wrapper,
+.topicForm .Layout__layout1 .TopicForm__wrapper{
+ padding-top:10px; 
+}
+.ticketForm #scrollStickyContainer{
+  margin-top:35px;
+}
+.topicForm .TopicForm__title h2{
+  margin-top:0px;
+}
+.topicForm .TopicForm__details{
+ padding:1.25rem 10px 
+}
+/*US data center css end here */
+
+/*PageSense cross Promotional banner css*/
+.departmentList .TitleContainer__container {
+    margin: 0px 1.7% 1.7% 0;
+}
+.en-gb .Header__nav .lang-japan,.pt .Header__nav .lang-japan,.zh .Header__nav .lang-japan{
+ display:none; 
+}
+.Header__logoPart .Header__logo{
+  max-width:90px;
+}
+.departmentList .TitleContainer__container:nth-child(74),
+.ticketForm #field_departmentId li[data-id="field_departmentId_4001524291748"]{
+ display:none; 
+}
+ul.LocalePopup__themeLang li[data-id="es_locale"]{
+ display:none; 
+}
+.zc-product-categories .zc-product-contactmanager{
+ display:none; 
+}
+.imdashboard p{
+line-height:140%
+}
+.sty__xfqayo__cls{
+ width:432.5px;
+}
+.article_subcategory .ModuleItem__moduleDescription{display:none}
+.pro_motivator{display:none !important}
+ .Header__headerBg{
+ margin-top:0px; 
+}
+.home .Header__headerBg{
+ margin-top:21px; 
+}
+.communityLanding  .AppContainer__wrapper{
+      padding-top: 1.3rem;
+}
+.sp_flag.southafrica , .sp_flag.restofafrica {
+    height: 42px;
+}
+/*Sub category description hide css end here */
+/*------ User Custom widget style start here -------*/
+.qntrl_versions{
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto;
+    background: #fff;
+    color:#303030;
+    padding:20px 15px;
+    background:#F6E1DF;
+    box-sizing: border-box;
+    border-radius:15px;
+    border:2px solid rgb(250,111,102);
+    box-shadow: 0 0 5px rgba(250,111,102,0.5)
+}
+.qntrl_versions p{
+    font-size: 17px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    font-weight: 600 !important
+}
+.qntrl_versions p a{
+    color:#FA6E65;
+    text-decoration: none;
+  	font-weight: 600 !important
+}
+.zanalytics-header-sticky ul{display: flex;flex-wrap: wrap;align-items: flex-start;justify-content: left;padding-left:0!important}
+.zanalytics-header-sticky .transY2{-webkit-transition-delay: 400ms;transition-delay: 400ms}
+.zanalytics-header-sticky li.current{border-color: #ffae50}
+.zanalytics-header-sticky li{margin: 0 7px 12px;display: inline-block}
+.zanalytics-header-sticky li a{display: inline-block;padding: 20px 25px;color: #000;border: 1px solid #b0b0b0;background: #e7f3ff;color: #000;font-size: 24px;position: relative;text-align: left;box-sizing: border-box;border-radius: 4px;cursor: pointer;transition: ease all .5s}
+.zanalytics-header-sticky li.current{border-color: #ffae50}
+.zohocommunity br,.ArticleListRightContainer__wrapper .WidgetsContainer__widgetCont .WidgetsContainer__rightWd br,
+.ArticleDetailLeftContainer__widget .WidgetsContainer__lftWd br,.ArticleDetailRightContainer__WidgetConnDeRight .WidgetsContainer__rightWd br,
+.showtime_newsletterWrapper br,.CustomWidget__customDescription br,.TopicListRightContainer__comnSpace .WidgetsContainer__rightWd br,
+.WidgetsContainer__rightWd br{display:none;}
+.meeting_footer,.workerly_footer,.recruit_footer{background-color:#eee !important;}
+.dataPrep_imgBdr{border:1px solid #efefef}
+.crm_mplus_workshop_ban,.crm_workshop_banner_kb,.crm_workshop_banner_forum{display:none!important}
+.crmplus .crm_mplus_workshop_ban,
+.zohocrmplus .crm_mplus_workshop_ban, 
+.marketingplus .crm_mplus_workshop_ban,
+.zohomarketingplus .crm_mplus_workshop_ban,
+.desk .crm_mplus_workshop_ban,
+.zohodesk .crm_mplus_workshop_ban,
+.crm .crm_workshop_banner_kb, .zohocrm .crm_workshop_banner_forum,
+.desk .crm_workshop_banner_kb, .zohodesk .crm_workshop_banner_forum,
+.crmplus .crm_workshop_banner_kb, .zohocrmplus .crm_workshop_banner_forum,
+.marketingplus .crm_workshop_banner_kb, .zohomarketingplus .crm_workshop_banner_forum{display:block!important}
+portal.articleDetail .bigin_setup_vdo{display: none}
+/*TeamInbox Social icons adding css starts*/
+.Social_icons ul{padding-left: 0!important;display: flex;list-style-type: none;width:100%;padding-top:10px}
+.Social_icons li{height: 35px;padding-right: 20px}
+.Social_icons li a{display: block;cursor:pointer;width:100%;height: 100%}
+.Social_icons li a span{display: inline-block}
+.Social_icons li a span img{width:35px}
+.Social_icons li a span:last-child{position: relative;top: -12px;padding-left: 5px;color: #000;font-weight: 600}
+/*TeamInbox Social icons adding css ends*/
+.portalContainer.ja .jp_bottom_banner{display:none;margin-top:30px}
+.portalContainer.crm.ja .jp_bottom_banner,
+.portalContainer.campaigns.ja .jp_bottom_banner,
+.portalContainer.desk.ja .jp_bottom_banner,
+.portalContainer.salesiq.ja .jp_bottom_banner,
+.portalContainer.social.ja .jp_bottom_banner,
+.portalContainer.projects.ja .jp_bottom_banner,
+.portalContainer.survey.ja .jp_bottom_banner,
+.portalContainer.analytics.ja .jp_bottom_banner,
+.portalContainer.crmplus.ja .jp_bottom_banner{display:flex!important}
+.jp_bottom_banner{max-width: 900px;width: 100%;background: url(https://desk.zoho.com/galleryDocuments/edbsnb6c9783ffa5a252bb62403a9c2953c67058d78652673fcefad278a8f7fd1fc2c1e06e4ee16035621def7c1221d02937a?inline=true)no-repeat;min-height: 320px;background-size: cover;
+margin:0 auto;padding: 45px 25px;background-position: right;box-sizing: border-box;position: relative;align-items: center}
+.jp_btm_bann_cont{max-width: 67%}
+.jp_btm_bann_cont .btm_bann_title{color:#FFF200;font-size: 28px;font-weight: 600;border-bottom:1px solid #fdc323;padding-bottom: 20px;
+  display: inline-block}
+.jp_btm_bann_cont .btm_bann_para{color:#fff;font-size: 18px;padding:20px 0;font-weight: 600}
+.jp_btm_bann_cont .btm_bann_title,.jp_btm_bann_cont .btm_bann_para,.jp_btm_bann_cont .btm_bann_cta{margin: 0 0!important;
+  font-family:var(--zf-primary-regular)}
+.jp_btm_bann_cont .btm_bann_cta a{color:#fff;font-weight: 600;font-size: 16px;background: #F0323D;
+  box-shadow: 0 0 2px rgba(0,0,0,0.6);padding:10px 25px;display: inline-block;cursor: pointer;text-decoration: none;border-radius: 6px}
+p.bann_img{position: absolute;max-width: 565px;width: 100%;right: 0;bottom: 0px;margin: 0}
+p.bann_img .desktop_view{display: block}
+p.bann_img .mobile_view{display: none}
+.bann_img img{width: 100%;height: auto}
+@media screen and (max-width: 1240px){
+  p.bann_img{max-width: 450px}
+  .jp_btm_bann_cont{max-width: calc(100% - 205px)}
+  .jp_btm_bann_cont .btm_bann_title{font-size: 23px}
+  .jp_btm_bann_cont .btm_bann_para{font-size: 15px}
+}
+@media screen and (max-width: 720px){
+  p.bann_img .desktop_view{display: none}
+  p.bann_img .mobile_view{display: block}
+  .jp_bottom_banner{flex-flow: row wrap;align-items: center;padding:0 0;overflow: hidden}
+  p.bann_img,.jp_btm_bann_cont{max-width: 100%}
+  .jp_btm_bann_cont{padding: 30px;text-align: center}
+  p.bann_img{position: relative;order:2;left: -1px;bottom: -1px;transform: scale(1.1)}
+}
+.zoho_social_kb_widgets,.zoho_social_fm_widgets{display:none}
+.articleList.social .zoho_social_kb_widgets,.articleDetail.social .zoho_social_kb_widgets,
+.communityList.zohosocial .zoho_social_fm_widgets, .communityDetail.zohosocial .zoho_social_fm_widgets
+{display:block}
+/*Zhow Show Social icons adding css starts*/
+.follow_us_on_widgets ul{list-style-type: none;padding: 0!important}
+.follow_us_on_widgets ul li{display: inline-block!important;padding-right: 5px}
+.follow_us_on_widgets ul li a,.sign_follow_us_on ul li a{display: block;width:35px;height:35px;border-radius:4px;
+background: url("https://desk.zoho.com/galleryDocuments/edbsnfbbd5d8d2fbdc3de3c6b9a60f0fd60ec390d7281031b79ed8ccf803a5cf9f1ea49b49fa2586f91839ec47292fe3a31ba?inline=true")no-repeat;
+background-size:233px auto}
+.follow_us_on_widgets ul li.tw_icn a{background-position: -3px -38px}
+.follow_us_on_widgets ul li.fb_icn a{background-position: -36px -38px}
+.follow_us_on_widgets ul li.insta_icn a{background-position: -73px -38px;}
+.follow_us_on_widgets ul li.ind_icn a{background-position: -99px -34px;background-size: 214px auto}
+.follow_us_on_widgets ul li.pint_icn a{background-position: -145px -37px}
+.follow_us_on_widgets ul li.yt_icn a,.sign_follow_us_on ul li.yt_icn a{background-position: -141px -26px;background-size: 179px auto}
+.sign_follow_us_on ul li.tw_icn a{background-size: 233px auto}
+/*Zhow Show Social icons adding css ends*/
+/*Zoho Show Resources Widget css Starts*/
+.widget_sec,.widget_sec ul{margin: 0 0;padding: 0 0}
+.widget_sec{width:100%}
+.widget_sec ul{list-style: none;display: flex;flex-flow: row wrap}
+.widget_sec ul li{position: relative;box-shadow : 0px 2px 3px rgba(61, 61, 61, 0.3);border-radius: 6px;margin-bottom: 10px;
+max-width:100%}
+/*Twitter logo updated image*/
+.follow_us_on_widgets ul li.tw_icn a{
+    background: url(https://www.zohowebstatic.com/sites/zweb/images/commonroot/common-elements.svg)no-repeat;
+    background-size:960px auto
+}
+.follow_us_on_widgets ul li.tw_icn a{
+    background-position: -251px 3px
+}
+/*Twitter logo updated image*/
+.widget_sec ul li:nth-child(odd){margin-right:3%}
+.widget_sec ul li:first-child{width:51%;background : #4D2FD1}
+.widget_sec ul li:nth-child(2){width:46%;background : #D950B6}
+.widget_sec ul li:nth-child(3){width:41%;background : #F5689B}
+.widget_sec ul li:nth-child(4){width:56%;background : #22A9B6}
+.widget_sec ul li:nth-child(5){width:56%;background : #369A47}
+.widget_sec ul li:nth-child(6){width:41%;background : #E35543}
+.widget_sec ul li:nth-child(7){width:41%;background : #7E51C6}
+.widget_sec ul li:last-child{width:56%;background : #1E5DC3}
+.widget_sec ul li a{text-decoration: none;color:#fff;display: block;width:100%;height:100%;font-size : 16px;padding:15px 10px;box-sizing: border-box;text-align: center}
+.widget_sec ul li a span{display: inline-flex;justify-content:center;align-items: center}
+.widget_sec ul li a span i.icon_sec{display: inline-block;width: 28px;height: 28px;margin-right: 10px}
+.widget_sec ul li:nth-child(1) a span i.icon_sec,.widget_sec ul li a span i.icon_sec.feature{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko54cdfcb5673d84102b7644ab83b7d19cb");background-size: 28px auto}
+.widget_sec ul li:nth-child(2) a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko5a7ae5babb1dd4229a56a466b353ab633");background-size: 28px auto}
+.widget_sec ul li:nth-child(3) a span i.icon_sec,.widget_sec ul li a span i.icon_sec.blogs,.widget_sec.sheet_resources li.sheet_blogs i.icon_sec.blogs{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko5ed7cbb7dd0ed4a158bb819bb7c023665");background-size: 28px auto}
+.widget_sec ul li:nth-child(4) a span i.icon_sec,.widget_sec ul li a span i.icon_sec.whats_new,.widget_sec.sheet_resources li.sheet_new i.icon_sec.whats_new{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko504d4f987ca6f41c7b8cb3f9e7b7cb257");background-size: 28px auto}
+.widget_sec ul li:nth-child(5) a span i.icon_sec,.widget_sec ul li a span i.icon_sec.help_guide,.widget_sec.sheet_resources li.sheet_help i.icon_sec.help_guide{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko53fb17c882633460aa29e1195c95cc22b");background-size: 28px auto}
+.widget_sec ul li:nth-child(6) a span i.icon_sec,.widget_sec ul li a span i.icon_sec.videos{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko5a94f121026c74794a46ccf79d9f6b969");background-size: 28px auto}
+.widget_sec ul li:nth-child(7) a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko58f8bddc9eac949c4a43f271e604092b0");background-size: 28px auto}
+.widget_sec ul li:nth-child(8) a span i.icon_sec,.widget_sec ul li a span i.icon_sec.tips_tricks{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko5a9bfa1a067df4c5bafffc61be52d7e5c");background-size: 28px auto}
+/*pageSense resoureces widgets css*/
+.widget_sec.pageSense_widget_sec ul li:first-child{background: #FF62B9;width:44%}
+.widget_sec.pageSense_widget_sec ul li:nth-child(2){background: #FF7046;width:53%}
+.widget_sec.pageSense_widget_sec ul li:nth-child(3){background: #2EA8E0;width:100%;margin-right:0}
+.widget_sec.pageSense_widget_sec ul li:nth-child(4){background: #78D05F;width:55%;margin-right: 3%}
+.widget_sec.pageSense_widget_sec ul li:nth-child(5){background: #B558B3;width:42%;margin-right: 0}
+.widget_sec.pageSense_widget_sec ul li:nth-child(6){background: #2F54AD;width:100%;margin-right: 0}
+.widget_sec.pageSense_widget_sec ul li:nth-child(7){background: #FFC369;width:40%;margin-right: 0}
+.widget_sec ul li a span i.icon_sec.ab_test{background: url("https://desk.zoho.com/galleryDocuments/edbsn3aca0b32cfd506fc70302d5c21720654a04b68ed4ae1f1ba5638e9454bb9e77eef81eaa75559485d1370ff0d73bfd77e?inline=true");background-size: 28px auto}
+.widget_sec ul li a span i.icon_sec.cro_hacks{background: url("https://desk.zoho.com/galleryDocuments/edbsn6931bf6c302c16bcb0d2e540d659c2f5bd089d037d6aa9cd5e5fea9ff969fcf4ed05eb40172747a1d3c3ab3a85ecdafd?inline=true");background-size: 28px auto}
+/*pageSense resoureces widgets css*/
+/*PageSense custom widgets css*/
+.psense_widget_sec{max-width:100%;width:100%;margin:0 auto;border:2px solid #204E70;padding:25px 30px;background:#fff;display:none;align-items: center;justify-content: center}
+.psense_widget_sec .psense_widget_lft{width:65%;padding-right:40px}
+.psense_widget_sec .psense_widget_lft h2{color:#C13A2C;font-size: 25px;line-height: 30px;margin:0 0}
+.psense_widget_sec .psense_widget_lft p{font-size: 16px;line-height: 27px;padding:15px 0;margin:0 0}
+.psense_widget_sec .psense_widget_lft .psense_cta{display: inline-block}
+.psense_widget_sec .psense_widget_lft .psense_cta a{display: block;background: #204E70;color:#fff!important;font-size:18px;padding:10px 20px;margin: 0 0;cursor: pointer;text-decoration: none}
+.psense_widget_sec .psense_widget_rht{width: 35%}
+.psense_widget_sec .psense_widget_rht img{width:100%}
+.getstartedwithzohopagesense .psense_widget_sec.getstartedwithzohopagesense,
+.installthecodesnippet .psense_widget_sec.installthecodesnippet,
+.setupgoals .psense_widget_sec.setupgoals,
+.performfunnelanalysis .psense_widget_sec.performfunnelanalysis,
+.generateheatmap .psense_widget_sec.generateheatmap,
+.measureformanalytics .psense_widget_sec.measureformanalytics,
+.watchsessionrecordings .psense_widget_sec.watchsessionrecordings,
+.runa\/bandspliturltests .psense_widget_sec.urltests,
+.personalizeyourwebsite .psense_widget_sec.personalizeyourwebsite,
+.pollsandfeedbackforms .psense_widget_sec.pollsandfeedbackforms,
+.sendpushnotifications .sendpushnotifications,
+.pop-upsandbanners .psense_widget_sec.pop-upsandbanners,
+.advancedsettings .psense_widget_sec.advancedsettings,
+.extensionsguide .psense_widget_sec.extensionsguide,
+.integrationsguide .psense_widget_sec.integrationsguide{display: flex}
+@media only screen and (max-width: 699px){
+  .psense_widget_sec{flex-flow: row wrap;padding:20px 15px}
+  .psense_widget_sec .psense_widget_lft,
+  .psense_widget_sec .psense_widget_rht{width:100%;text-align: center;padding: 0}
+  .psense_widget_sec .psense_widget_rht .banner_img{max-width:300px;width:98%;margin:20px auto 0}
+}
+/*PageSense custom widgets css*/
+/*Sales IQ Resources widget css*/
+.widget_sec ul li.admin_guide{width:100%;background : #DF457C;margin-right:0}
+.widget_sec ul li.admin_guide a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko53fb17c882633460aa29e1195c95cc22b");background-size: 28px auto}
+.widget_sec ul li.community {width:54%;background : #F98D7A;margin-right:3%}
+.widget_sec ul li.community a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko5a7ae5babb1dd4229a56a466b353ab633");background-size: 28px auto}
+.widget_sec ul li.videos {width:43%;background : #62BFCD;margin-right:0}
+.widget_sec ul li.videos a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko5a94f121026c74794a46ccf79d9f6b969");background-size: 28px auto}
+.widget_sec ul li.whats_new {width:60%;background : #7B90FF;margin-right:0}
+.widget_sec ul li.whats_new a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko504d4f987ca6f41c7b8cb3f9e7b7cb257");background-size: 28px auto}
+.widget_sec ul li.faq {width:37%;background : #FEC12F;margin-right:3%}
+.widget_sec ul li.faq a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko58f8bddc9eac949c4a43f271e604092b0");background-size: 28px auto}
+.widget_sec ul li.bot_guides{width:100%;background : #FE2559;margin-right: 0}
+.widget_sec ul li.bot_guides a span i.icon_sec,.widget_sec.sheet_resources li.sheet_mblapps i.icon_sec.mobile_apps{background: url("https://desk.zoho.com/galleryDocuments/edbsn5fcaef6e40a5605d3670fbc49c00b8498d0c4b3d551059e6dabe645d1004b64989eab3ae4dd10a4042af8d2057ca0743?inline=true");background-size: 28px auto}
+.widget_sec ul li.bot_samples a span i.icon_sec{background: url("https://desk.zoho.com/galleryDocuments/edbsn0f647d061fe04001ab7cfdb685a074fa7ab2743758a0a5b011d22a81b18acafebbc666755e686b1c43c1905b94627cd0?inline=true");background-size: 28px auto}
+.widget_sec ul li.webinar {width:47%;background : #CD8EEB;margin-right:3%}
+.widget_sec ul li.webinar a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko58f8bddc9eac949c4a43f271e604092b0");background-size: 28px auto}
+.widget_sec ul li.bot_samples{width:50%;background : #60D0B6;margin-right: 0}
+.widget_sec ul li.developers{width:100%;background : #006FF2;margin-right:0}
+.widget_sec ul li.developers a span i.icon_sec{background: url("https://desk.zoho.com/DocsDisplay?zgId=4335217&mode=inline&blockId=n5ko54cdfcb5673d84102b7644ab83b7d19cb");background-size: 28px auto}
+.widget_sec.sheet_resources li.sheet_tips{width: 100%;margin-right: 0}
+.widget_sec.sheet_resources li.sheet_blogs{width:40%;margin-right: 3%}
+.widget_sec.sheet_resources li.sheet_new{width: 57%;margin-right: 0}
+.widget_sec.sheet_resources li.sheet_help{width:49%;margin-right: 3%}
+.widget_sec.sheet_resources li.sheet_webinars{width: 48%;margin-right: 0}
+.widget_sec.sheet_resources li.sheet_mblapps{width: 100%;margin-right: 0}
+/*Sales IQ Resources widget css*/
+@media screen and (min-device-width: 769px) and (max-device-width: 1115px) { 
+    .widget_sec ul li{width: 100%!important;margin-right: 0!important}
+}
+
+/*Zoho Show Resources Widget css Ends*/
+.showtime_newsletterWrapper {
+    background-color: #EDF0F2;
+    margin: 0 auto;
+    padding: 30px 0px;
+}
+.showtime_parent {
+    margin: 0 auto;
+    display: table;
+}
+.showtime_rows {
+    margin-bottom: 11px;
+}
+.showtime_rows a {
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    border-bottom: 5px solid #DFE2E4;
+    background-color: #2A6171;
+    padding: 5px 6px 7px 20px;
+    border-radius: 30px 30px 36px 36px;
+    width: 270px;
+}
+.showtime_rows img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+/*Showtime style end here */
+/*workdrive style start here */
+.zohoworkdrive_customlist {
+    padding: 16px;
+    background: linear-gradient(to bottom, #3A6073, #16222A);
+    font-size: 16px;
+    list-style: none;
+    border-radius: 3px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 5px 0;
+}
+/*workdrive style end here */
+.kbLanding .WidgetsContainer__widgetCont .WidgetsContainer__lftWd:nth-child(2),.kbLanding .WidgetsContainer__widgetCont .WidgetsContainer__lftWd:nth-child(3){
+  float:left;
+  width:48.5%;
+}
+.kbLanding .WidgetsContainer__widgetCont .WidgetsContainer__lftWd:nth-child(3){
+   float:right;  
+  margin-top:1.6rem;
+}
+@media only screen and (max-width:1024px){
+   .kbLanding .WidgetsContainer__widgetCont .WidgetsContainer__lftWd:nth-child(2),.kbLanding .WidgetsContainer__widgetCont .WidgetsContainer__lftWd:nth-child(3){
+  float:none;
+  width:100%;
+} 
+  .kbLanding .WidgetsContainer__widgetCont .WidgetsContainer__lftWd:nth-child(3){ 
+  margin-top:0rem;
+}
+}
+/*Zoho Sign Resources widget css*/
+.zoho_sign_resources{display: flex;flex-flow: row wrap;max-width: 310px;justify-content: flex-start;gap: 5px}
+.zoho_sign_resources a{text-decoration: none;color:#262626;font-size: 16px;font-weight: 600;cursor: pointer;
+display: flex;justify-content: center;align-items: center;padding:5px 10px 4px 4px;border:1px solid #cdcdcd;
+margin-bottom: 10px;border-radius:6px;transition:all ease 500ms}
+.zoho_sign_resources a:hover{background:#246BF6;border-color:#246BF6;color:#fff}
+/*.zoho_sign_resources div:nth-child(2n+1){margin-right: 8px}*/
+.zoho_sign_resources a span:nth-child(1){width:35px;height:35px;
+background: url(https://desk.zoho.com/galleryDocuments/edbsn279ea7f490c94dd9bafb688dbf5a2ee84f488bf87e0a1fc02121b309f43bb7a1eb75ff674033c3c0d1795b316374e7ce?inline=true)no-repeat;
+background-size: 350px auto}
+.zoho_sign_resources a span:nth-child(2){padding-left: 8px}
+.zoho_sign_resources .sing_whats_new a span:nth-child(1){background-position:-1px -3px}
+.zoho_sign_resources .sign_help_guide a span:nth-child(1){background-position:-41px -3px}
+.zoho_sign_resources .solu_guide a span:nth-child(1){background-position:-80px -1px}
+.zoho_sign_resources .sign_api a span:nth-child(1){background-position:-118px -1px}
+.zoho_sign_resources .sign_blog a span:nth-child(1){background-position:-156px -1px}
+.zoho_sign_resources .sign_faq a span:nth-child(1){background-position:-197px -1px}
+.zoho_sign_resources .sign_legal_guide a span:nth-child(1){background-position:-235px -3px}
+.zoho_sign_resources .sign_forum a span:nth-child(1){background-position:-274px -1px}
+.zoho_sign_resources .sign_webinar a span:nth-child(1){background-position:-312px -3px}
+.zoho_sign_resources .sing_whats_new a:hover span:nth-child(1){background-position:-1px -42px}
+.zoho_sign_resources .sign_help_guide a:hover span:nth-child(1){background-position:-41px -42px}
+.zoho_sign_resources .solu_guide a:hover span:nth-child(1){background-position:-80px -41px}
+.zoho_sign_resources .sign_api a:hover span:nth-child(1){background-position:-118px -41px}
+.zoho_sign_resources .sign_blog a:hover span:nth-child(1){background-position:-156px -41px}
+.zoho_sign_resources .sign_faq a:hover span:nth-child(1){background-position:-197px -41px}
+.zoho_sign_resources .sign_legal_guide a:hover span:nth-child(1){background-position:-235px -42px}
+.zoho_sign_resources .sign_forum a:hover span:nth-child(1){background-position:-274px -41px}
+.zoho_sign_resources .sign_webinar a:hover span:nth-child(1){background-position:-312px -42px}
+
+.zoho_sign_resources.zoho_forms_resources a span:nth-child(1){
+    background: url(https://desk.zoho.com/galleryDocuments/edbsn734f3f17e70954e04857acbb95602a65632dc2e9ea1b036f29fa2b5299c16fc60ad9570b2ab0cf7c103a992296d5fc4e?inline=true)no-repeat;
+    background-size: 345px auto
+}
+.zoho_sign_resources .forms_features a span:nth-child(1){background-position: 2px 2px}
+.zoho_sign_resources .forms_features a:hover span:nth-child(1){background-position: 2px -30px}
+.zoho_sign_resources  .forms_temp a span:nth-child(1){background-position: -32px 2px}
+.zoho_sign_resources  .forms_temp a:hover span:nth-child(1){background-position: -32px -30px}
+.zoho_sign_resources .forms_cust a span:nth-child(1){background-position: -63px 0px}
+.zoho_sign_resources .forms_cust a:hover span:nth-child(1){background-position: -63px -30px}
+.zoho_sign_resources .forms_mbl a span:nth-child(1){background-position: -94px 2px}
+.zoho_sign_resources .forms_mbl a:hover span:nth-child(1){background-position: -94px -30px}
+.zoho_sign_resources  .forms_price a span:nth-child(1){background-position: -122px 2px}
+.zoho_sign_resources  .forms_price a:hover span:nth-child(1){background-position: -122px -30px}
+.zoho_sign_resources  .forms_integ a span:nth-child(1){background-position: -156px 2px}
+.zoho_sign_resources  .forms_integ a:hover span:nth-child(1){background-position: -156px -30px}
+.zoho_sign_resources .forms_blog a span:nth-child(1){background-position: -187px 2px}
+.zoho_sign_resources .forms_blog a:hover span:nth-child(1){background-position: -187px -30px}
+.zoho_sign_resources .forms_ebooks a span:nth-child(1){background-position: -218px 0px}
+.zoho_sign_resources .forms_ebooks a:hover span:nth-child(1){background-position: -218px -30px}
+.zoho_sign_resources .forms_tips a span:nth-child(1){background-position: -248px 0px}
+.zoho_sign_resources .forms_tips a:hover span:nth-child(1){background-position: -248px -30px}
+.zoho_sign_resources .forms_forum a span:nth-child(1){background-position: -278px 2px}
+.zoho_sign_resources .forms_forum a:hover span:nth-child(1){background-position: -278px -30px}
+.zoho_sign_resources .forms_terms a span:nth-child(1){background-position: -312px 2px}
+.zoho_sign_resources .forms_terms a:hover span:nth-child(1){background-position: -312px -30px}
+/*.zoho_sign_resources.zoho_forms_resources > div{margin-right:0}
+.zoho_forms_resources .forms_features, .zoho_forms_resources .forms_cust,
+.zoho_forms_resources .forms_price, .zoho_forms_resources .forms_blog,
+.zoho_forms_resources .forms_tips, .zoho_forms_resources .forms_terms{margin-right:8px!important}*/
+
+/*Zoho Sign Resources widget css*/
+/*Workplace, Mail, Calendar Banners CSS*/
+.zdeskwidget-mailapps {max-width: 310px;margin:1.6rem auto 0;box-sizing: border-box;position: relative;overflow: hidden;border-radius: 5px;border: 2px solid #ff735d;background: #ff735d;/* for non-css3 browsers */filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#ff735d');/* for IE */background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ff735d));/* for webkit browsers */background: -moz-linear-gradient(top, #fff, #ff735d);/* for firefox 3.6+ */}
+.zdeskwidget-mailapps .zdeskwidget-logo {position: absolute;top: 15px;left: 20px;display: inline-flex;height: 22px}
+.zdeskwidget-mailapps .zdeskwidget-logo img {max-width: 100%}
+.zdeskwidget-mailapps .zdeskwidget-info {padding-top: 50px;box-sizing: border-box;text-align: center}
+.zdeskwidget-mailapps .zdeskwidget-info .zdeskwidget__heading {font-weight: 700;font-size: 20px;margin: 5px 0 15px}
+.zdeskwidget-mailapps .zdeskwidget-info .zdeskwidget__desc {font-size: 18px;font-weight: 400}
+.zdeskwidget-mailapps .zdeskwidget-info .zdeskwidget__btn a {font-size: 15px;padding: 8px 15px 10px;display: inline-block;color: #fff;background-color: #2c66dd;text-decoration: none;border-radius: 5px;font-weight: 700}
+.zdeskwidget-mailapps .zdeskwidget-image {text-align: center;margin-top: -25px;pointer-events: none;padding-bottom: 35px}
+.zdeskwidget-mailapps .zdeskwidget-image img {max-width: 85%!important;transform: scale(1.3)}
+.zdeskwidget-mail {max-width: 310px;margin: 0 auto;box-sizing: border-box;position: relative;overflow: hidden;border-radius: 5px;border: 2px solid #fef4e3;background: #fef4e3}
+.zdeskwidget-mail .zdeskwidget-logo {position: absolute;top: 15px;left: 20px;display: inline-flex;height: 22px}
+.zdeskwidget-mail .zdeskwidget-logo img {max-width: 100%}
+.zdeskwidget-mail .zdeskwidget-info {padding-top: 60px;box-sizing: border-box;text-align: center}
+.zdeskwidget-mail .zdeskwidget-info .zdeskwidget__heading {font-weight: 700;font-size: 24px;margin: 5px 0;color: #935125}
+.zdeskwidget-mail .zdeskwidget-info .zdeskwidget__desc {font-size: 18px;font-weight: 400}
+.zdeskwidget-mail .zdeskwidget-info .zdeskwidget__btn {padding-top: 25px}
+.zdeskwidget-mail .zdeskwidget-info .zdeskwidget__btn a {font-size: 15px;padding: 8px 15px 10px;display: inline-block;color: #fff;background-color: #935125;text-decoration: none;border-radius: 5px;font-weight: 700}
+.zdeskwidget-mail .zdeskwidget-image {text-align: center;margin-top: 42px;pointer-events: none;margin-bottom: -40px;margin-left: 10px}
+.zdeskwidget-mail .zdeskwidget-image img {max-width: 95%}
+.zdeskwidget-calendar {max-width: 310px;margin: 0 auto;box-sizing: border-box;position: relative;overflow: hidden;border-radius: 5px;border: 2px solid #fceee8;background: #fceee8}
+.zdeskwidget-calendar .zdeskwidget-logo {position: absolute;top: 15px;left: 20px;display: inline-flex;height: 22px}
+.zdeskwidget-calendar .zdeskwidget-logo img {max-width: 100%}
+.zdeskwidget-calendar .zdeskwidget-info {padding-top: 50px;box-sizing: border-box;text-align: center}
+.zdeskwidget-calendar .zdeskwidget-info .zdeskwidget__heading {font-weight: 700;font-size: 24px;margin: 5px 0 15px}
+.zdeskwidget-calendar .zdeskwidget-info .zdeskwidget__desc {font-size: 18px;font-weight: 400}
+.zdeskwidget-calendar .zdeskwidget-info .zdeskwidget__btn a {font-size: 15px;padding: 8px 15px 10px;display: inline-block;color: #fff;background-color: #ff5722;text-decoration: none;border-radius: 5px;font-weight: 700}
+.zdeskwidget-calendar .zdeskwidget-image {text-align: center;margin-top: 15px;pointer-events: none;padding-bottom: 10px}
+.zdeskwidget-calendar .zdeskwidget-image img {max-width: 75%!important}
+.zdeskwidget-calendarapps {max-width: 310px;margin: 1.6rem auto 0;box-sizing: border-box;position: relative;overflow: hidden;border-radius: 5px;border: 2px solid #96dcf6;background: url(https://desk.zoho.com/galleryDocuments/edbsn1ace8ea652dee4d53cf490d31c1c2af908476094d8566cbe0b35612e51e503f414c2ff3ce6d5132dc7d2419ed10ab8c0?inline=true) no-repeat;background-size: cover}
+.zdeskwidget-calendarapps .zdeskwidget-logo {position: absolute;top: 15px;left: 20px;display: inline-flex;height: 22px}
+.zdeskwidget-calendarapps .zdeskwidget-logo img {max-width: 100%}
+.zdeskwidget-calendarapps .zdeskwidget-info {padding-top: 60px;box-sizing: border-box;text-align: center}
+.zdeskwidget-calendarapps .zdeskwidget-info .zdeskwidget__heading {font-weight: 700;font-size: 24px;margin: 5px 0 15px}
+.zdeskwidget-calendarapps .zdeskwidget-info .zdeskwidget__desc {font-size: 18px;font-weight: 400}
+.zdeskwidget-calendarapps .zdeskwidget-info .zdeskwidget__btn {padding-top: 10px}
+.zdeskwidget-calendarapps .zdeskwidget-info .zdeskwidget__btn a {font-size: 15px;padding: 8px 15px 10px;display: inline-block;color: #fff;background-color: #2c66dd;text-decoration: none;border-radius: 5px;font-weight: 700}
+.zdeskwidget-calendarapps .zdeskwidget-image {text-align: left;margin-top: 26px;margin-bottom: -10px;pointer-events: none}
+.zdeskwidget-calendarapps .zdeskwidget-image img {max-width: 75%!important}
+.zdeskwidget-workplaceapps {display:none;max-width: 310px;margin: 0 auto;box-sizing: border-box;position: relative;overflow: hidden;border-radius: 5px;border: 2px solid #328de9;background: #328de9;/* for non-css3 browsers */filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#328de9');/* for IE */background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#328de9));/* for webkit browsers */background: -moz-linear-gradient(top, #fff, #328de9);/* for firefox 3.6+ */}
+.mail .zdeskwidget-workplaceapps,.calendar .zdeskwidget-workplaceapps{display:block} 
+.zdeskwidget-workplaceapps .zdeskwidget-logo {position: absolute;top: 15px;left: 20px;display: inline-flex;height: 22px}
+.zdeskwidget-workplaceapps .zdeskwidget-logo img {max-width: 100%}
+.zdeskwidget-workplaceapps .zdeskwidget-info {padding-top: 60px;box-sizing: border-box;text-align: center}
+.zdeskwidget-workplaceapps .zdeskwidget-info .zdeskwidget__heading {font-weight: 700;font-size: 24px;margin: 5px 0 15px}
+.zdeskwidget-workplaceapps .zdeskwidget-info .zdeskwidget__desc {font-size: 18px;font-weight: 400}
+.zdeskwidget-workplaceapps .zdeskwidget-info .zdeskwidget__btn {padding-top: 10px}
+.zdeskwidget-workplaceapps .zdeskwidget-info .zdeskwidget__btn a {font-size: 15px;padding: 8px 15px 10px;display: inline-block;color: #fff;background-color: #2b66dc;text-decoration: none;border-radius: 5px;font-weight: 700}
+.zdeskwidget-workplaceapps .zdeskwidget-image {text-align: center;margin-top: 20px;pointer-events: none}
+.zdeskwidget-workplaceapps .zdeskwidget-image img {max-width: 100%;transform: scale(1.1)}
+
+.zdeskwidget-workplace {max-width: 875px;margin: 0 auto;position: relative;height: 210px;display:none;align-items: center;justify-content: center;flex-wrap: wrap;overflow: hidden;border-radius: 5px;background-color: #deebff}
+.mail .zdeskwidget-workplace,.calendar .zdeskwidget-workplace{display:flex}
+.zdeskwidget-workplace:before {content: "";position: absolute;right: 0;bottom: 0;width: 380px;height: 210px;background-image: url(https://desk.zoho.com/galleryDocuments/edbsn0477f1b321298763e870aa13982a2937e19e76623aa18f8cd4bb26e1894506e537b896df7c33f78844dc20e1320c7e07?inline=true);background-repeat: no-repeat;background-position: 30px 35px;background-size: 100%}
+.zdeskwidget-workplace:after {content: "";position: absolute;left: 0;bottom: 0;width: 110px;height: 110px;background-image: url(https://desk.zoho.com/galleryDocuments/edbsn78c3c273eafa0ab35d7bb948977f6cf847a48c74a924a629b097e512a551522cb74645ee13309ba9e0f03df835884f65?inline=true);background-repeat: no-repeat;background-position: -40px 45px;background-size: 100%}
+.zdeskwidget-workplace .zdeskwidget-logo {position: absolute;top: 15px;left: 20px;display: inline-flex;height: 22px}
+.zdeskwidget-workplace .zdeskwidget-logo img {max-width: 100%}
+.zdeskwidget-workplace .zdeskwidget-info {width: 60%;padding-left: 80px;padding-top: 20px;box-sizing: border-box;position: relative;z-index: 5}
+.zdeskwidget-workplace .zdeskwidget-info .zdeskwidget__heading {font-weight: 700;font-size: 30px;color: #29497c}
+.zdeskwidget-workplace .zdeskwidget-info .zdeskwidget__desc {font-size: 24px;font-weight: 400;margin-bottom: 10px}
+.zdeskwidget-workplace .zdeskwidget-info .zdeskwidget__btn a {font-size: 15px;padding: 8px 15px 10px;display: inline-block;color: #fff;background-color: #e42527;text-decoration: none;border-radius: 5px;font-weight: 700}
+.zdeskwidget-workplace .zdeskwidget-image {width: 40%;text-align: center;position: relative;z-index: 2}
+.zdeskwidget-workplace .zdeskwidget-image img {max-width: 55%!important}
+@media only screen and (max-width: 767px){
+.zdeskwidget-workplace .zdeskwidget-info .zdeskwidget__heading{font-size: 25px;padding-bottom: 10px}
+.zdeskwidget-workplace .zdeskwidget-info .zdeskwidget__desc {font-size: 20px}
+.zdeskwidget-workplace .zdeskwidget-info {padding-left: 50px}}
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+.zdeskwidget-workplace {height: auto;padding-bottom: 30px}
+.zdeskwidget-workplace .zdeskwidget-info {width: 100%;text-align: center;padding: 60px 20px 30px;padding-left: 50px}
+.zdeskwidget-workplace .zdeskwidget-image {width: 100%}
+.zdeskwidget-workplace .zdeskwidget-image img {max-width: 75%}
+}
+@media only screen and (max-width: 449px){
+.zdeskwidget-workplace .zdeskwidget-info{padding:10px ;width: 100%;text-align: center;padding-top: 45px}
+.zdeskwidget-workplace .zdeskwidget-image{width:65%}
+.zdeskwidget-workplace{height: auto}
+}
+/*Workplace, Mail, Calendar Banners CSS*/
+.articleDetail  .ArticleDetailLeftContainer__box,.articleDetail .KBCategoryTree1__kbTitle{margin-top:0px !important;}
+.articleDetail h1.ArticleDetailLeftContainer__kbTitle,.communityDetail h1.TopicDetailLeftContainer__topicTitle,
+.ticketDetail h1.TicketDetailLeftContainer__tickeTitle{font-size:2.2rem}
+.articleDetail .ArticleCmd__articleLike span.ArticleCmd__posttime{display:none}
+@media only screen and (max-width:768px){
+   .ArticleCmd__articleLike {
+      flex-direction: row;
+   }
+  .articleDetail h1.ArticleDetailLeftContainer__kbTitle,.communityDetail h1.TopicDetailLeftContainer__topicTitle,
+  .ticketDetail h1.TicketDetailLeftContainer__tickeTitle{
+      font-size: 1.8rem;
+   }
+}
+.tooltip-icon{
+       position: relative;
+    border: 0px solid #a1a1a1;
+    border-radius: 100%;
+    color: #888;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    height: 16px;
+    line-height: .6;
+    padding: 4px;
+    text-align: center;
+    width: 16px;
+    cursor: help;
+    left: 0px;
+    background-color: #ebdacf;
+}
+div.tooltip-icon div:nth-child(1) {
+    padding-top: 1px;
+}
+.tooltip-icon div.tooltip-text{
+        position: absolute;
+    font-style: normal;
+    color: #000;
+    background-color: #fff;
+    font-size: 13px;
+    line-height: 160%;
+    text-align: left;
+    padding: 10px;
+    font-weight: 400;
+    width: 225px;
+    z-index: 1;
+    box-shadow: 0 2px 7px #d1d1d1;
+    left: 25px;
+    top: -14px;
+    display: none;
+    box-sizing: border-box;
+}
+.tooltip-icon div.tooltip-text:before{
+    content: '';
+    position: absolute;
+    display: block;
+    left: -6px;
+    top: 15px;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    transform: rotate(45deg);
+    z-index: 2;
+    border: 1px solid #47aafa;
+    border-width: 0px 0px 2px 2px;
+}
+.tooltip-icon:hover div.tooltip-text{
+   display: block
+}
+.cp-label{display:inline}
+@media only screen and (max-width:1024px){
+  .tooltip-icon{display:none}
+}
+.TopicDetailRightContainer__comnSpace .StatsInfo__primaryColor,.TopicDetailRightContainer__comnSpace .StatsInfo__secondaryColor,
+.TopicDetailRightContainer__comnSpace .StatsInfo__dangerColor{color:#555}
+.StateProperty__stateProperty .StatsInfo__countClick{color:#3e7af7}
+/* Sprint style start here */
+.sp-role-module {
+  border: #8da8b3 solid 1px;
+  border-radius: 4px;
+  background-color: #fff;
+  font-family: sans-serif;
+  width: 650px;
+}
+.sp-role-module-title {
+  width: 100%;
+  padding: 10px;
+  background-color: #8da8b3;
+  font-size: 16px;
+  color: #fff;
+  box-sizing: border-box;
+}
+.sp-role-module table.sp-role {
+  width: 100%;
+  font-size:13px;
+}
+.sp-role-module table.sp-role thead{
+  background-color: #e5f1f4;
+}
+.sp-role-module .sp-role th{
+  font-weight: normal;
+  height: 30px;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: #68797f;
+}
+.sp-role-module table.sp-role th,
+.sp-role-module table.sp-role td {
+  vertical-align: middle;
+  line-height: 15px;
+  text-align: center;
+  position: relative;
+}
+.sp-role-module table.sp-role thead th:first-child,
+.sp-role-module table.sp-role tbody td:first-child {
+  text-align: left;
+  padding-left: 10px;
+}
+.sp-role-module table.sp-role tbody tr td{
+  border-bottom: #e5f1f4 solid 1px;
+}
+.sp-role-module table.sp-role tbody tr td:nth-child(2){
+  border-left: #e5f1f4 solid 1px;
+}
+.sp-role-module table.sp-role tbody tr:last-child td{
+  border-bottom:0;
+}
+.sp-role-module .sp-role td{
+  height: 45px;
+}
+.sp-role-module table.sp-role tbody tr td:first-child:hover{
+  background: none;
+}
+.sp-role-module table.sp-role tbody tr td:hover{
+  background-color: rgba(229, 241, 244, 0.3);
+}
+.sp-role-module .sp-tick, .sp-role-module .sp-tick-hint{
+  width:13px;
+  height: 13px;
+}
+.sp-role-module .sp-close{
+  width:10px;
+  height: 10px;
+  opacity: 0.8;
+}
+.sp-role-module .sp-subtitle{
+  height:30px !important;
+  vertical-align:bottom!important;
+  padding-bottom:3px!important;
+  font-weight:bold!important;
+  border-bottom:0!important;
+  color:#2574A9;
+}
+.sp-role-module .sp-hint{
+  position:absolute;
+  display:inline-block;
+  color: #000;
+  bottom: 3px;
+  right: 42px;
+  font-size: 16px;
+  margin: 0 auto;
+}
+.sp-role-module .hinttool .tool {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .2s ease;
+}
+.sp-role-module .hinttool:hover .tool {
+  visibility: visible;
+  opacity: 1;
+}
+.sp-role-module span.tool {
+  position: absolute;
+  left: 16px;
+  top: 42px;
+  background:rgba(0,0,0,0.9);
+  font-size: 12px;
+  line-height: 26px;
+  padding: 0px 12px;
+  border-radius: 2px;
+  height: 26px;
+  color: #fff;
+  z-index: 99999;
+}
+/*Sprint style end here */
+/* Zoho Forms style start here */
+.articleDetail.zohoforms .ArticleDetailLeftContainer__box p.description img{
+ border: 5px solid rgb(246, 246, 246)
+}
+/* Zoho Forms style end here */
+/* New to zoho CRM - Signup widget start here */
+.newcrm_signup_panel br,.signedIn .newcrm_signup_panel, .newcrm_access_panel{
+ display:none 
+}
+.signedIn .newcrm_access_panel, .newcrm_signup_panel{
+   display:block
+}
+.newcrm_signup_label{
+  font-weight:bold;
+  font-size: 1.2rem;
+}
+.newtocrm_signupcls{
+    background: #f0483e;
+    color: #fff;
+    margin-top: 5px;
+    display: flex;
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    height: 35px;
+    font-weight: bold;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
+/* New to zoho CRM - Signup widget end here */
+
+/*crm training banner and crm slider widjet css ends*/
+.reso-cont {
+    display: block;
+    max-width: 875px;
+    border: 2px solid rgb(9, 111, 251);
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.resc-inner {
+    float: right;
+    max-width: 33%;
+}
+.reso-txt-sec {
+    width: 67%;
+    display: inline-block;
+   padding: 28px 0 30px 30px;
+    box-sizing: border-box;
+}
+.reso-txt-sec h3 {
+   font: 600 22px 'Roboto', sans-serif;
+}
+.reso-txt-sec p {
+    font: 14px/1.6 'Roboto', sans-serif;
+    margin-top: 5px;
+}
+.reso-cont a {
+    color: #fff;
+    padding: 8px 20px;
+    background-color: rgb(235, 76, 73);
+    margin-top: 15px;
+    display: inline-block
+}
+.resc-inner img {
+    display: inherit;
+    width: 100%;
+}
+/*slider css*/ 
+.help-slder-con {
+    max-width: 100%;
+    height: 250px;
+    border: 2px solid rgb(9, 111, 251);
+    padding: 30px 20px;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    position: relative;
+    text-align: left;
+    overflow: hidden;
+}
+.help-slder-con h3 {
+    font: 600 22px 'Roboto', sans-serif;
+}
+.help-slder-con p {
+    font: 14px/1.6 'Roboto', sans-serif;
+    margin-top: 5px;
+}
+.htw-cta {
+    font: 500 16px 'Roboto', sans-serif;
+    color: #096ffb;
+    margin-top: 15px;
+    display: inline-block;
+    cursor: pointer
+}
+.htw-cta .arrow {
+    position: relative;
+    width: 12px;
+    height: 2px;
+    background: #0067ff;
+    display: inline-block;
+    top: -3px;
+    right: -3px;
+}
+.htw-cta .arrow:after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    border: 2px solid rgb(9, 111, 251);
+    transform: rotate(-45deg);
+    border-left: 0;
+    border-top: 0;
+    top: -2px;
+    right: 0px;
+}
+.blue-ptrn {
+    border-radius: 50%;
+    background-color: rgb(9, 111, 251);
+    position: absolute;
+    right: -30px;
+    top: -35px;
+    width: 80px;
+    height: 80px;
+    z-index: 3;
+    overflow: hidden;
+}
+.blue-ptrn1 {
+    border-radius: 50%;
+    background-color: rgb(9, 111, 251);
+    opacity: 0.149;
+    position: absolute;
+    right: -28px;
+    top: -33px;
+    width: 80px;
+    height: 80px;
+    z-index: 1;
+}
+.htw-cta:hover .arrow {
+    transform: translateX(3px);
+    transition: all ease 0.3s;
+}
+.help-iconsprite {
+    background-image: url("https://desk.zoho.com/DocsDisplay?zgId=4241905&mode=inline&blockId=1xsqc36d5a87dc3784f36b9eb7895a0beaaa0");
+    display: inline-block;
+    position: absolute;
+    top: 6px;
+    right: 7px;
+    z-index: 4;
+}
+.hlp-slidicon1 {
+    background-position: -4px -7px;
+   top: 10px;
+   width: 29px;
+   height: 16px;
+}
+.hlp-slidicon2{
+    background-position: -40px -1px;
+   width: 24px;
+   height: 28px;
+}
+.hlp-slidicon3{
+    background-position: -71px -1px;
+   width: 25px;
+   height: 29px;
+}
+.hlp-slidicon4{
+    background-position: -103px -1px;
+   width: 27px;
+   height: 27px;
+}
+.hlpslid-main {
+    position: relative;
+    overflow-x: hidden;
+   max-width: 300px;
+    height:250px
+}
+.multislider-main{
+    position: relative;    
+}
+.help-slder-con {
+   position: absolute;
+   top:0;
+   left:100%;
+   width:100%;
+   background: #fff;
+    animation: animate 20s cubic-bezier(.23,1,.32,1) infinite;
+}
+.multislider-main:hover .help-slder-con{
+    animation-play-state:paused  !important
+}
+.multislider-main .help-slder-con:nth-child(1){
+    animation-delay: 0s    
+}
+.multislider-main .help-slder-con:nth-child(2){
+    animation-delay: 5s    
+}
+.multislider-main .help-slder-con:nth-child(3){
+    animation-delay: 10s      
+}
+.multislider-main .help-slder-con:nth-child(4){
+    animation-delay: 15s      
+}
+@keyframes animate {
+   0% {left:100%}
+   5% {left:0}
+    25% {left:0}
+   30% {left:-100%}
+   100%{left:-100%}
+}
+@media only screen and (max-width: 1026px) {
+.hlpslid-main,.help-slder-con{
+     height:300px;
+  }
+.help-slder-con{
+  padding: 30px 10px
+}
+}
+@media only screen and (max-width: 768px) {
+.resc-inner {
+    display: none;
+}
+.reso-txt-sec {
+    width: 100%;
+}
+.hlpslid-main,.help-slder-con{
+   height:250px
+}
+}
+/*crm training banner and crm slider widjet css ends*/
+.ScrollSticky__type2{
+   margin-top:-70px; 
+  max-height:92vh;
+}
+/* New header background image style from creative team (14-may-2020) start here*/
+@media screen and (min-width:2560px) {
+   div#titleSearch { padding: 70px 0;}
+   .Header__headerBg { background-position: 0 40px; }
+}
+@media only screen and (max-width: 767px) {
+   .Header__homeContent .Header__searchalt {
+      width: 90%;
+      margin: 0 auto;
+   }
+   .home .Header__titleSearchBox { padding: 0em 0;}
+   .home div#titleSearch { padding: 30px 0;}
+}
+/* New header background image style from creative team (14-may-2020) end here*/
+.TopicListLeftContainer__section .Button__primary,.TopicDetailLeftContainer__box .Button__primary{
+      padding: 0.125rem 0.625rem;
+      font-size: 0.75rem;
+  text-transform: none;
+  border-radius: 0.1875rem;
+  transition: all 0.2s
+}
+.TopicListLeftContainer__section .Button__primary:hover,.TopicDetailLeftContainer__box .Button__primary:hover{
+   box-shadow:0px 5px 7px -2px #f79a95 
+}
+/* Salesiq image class start here*/
+.siqimg{
+
+    border: 1px solid #aaa!important;
+    transform: scale(0.95);
+    width: 100%;
+    height: auto;
+}
+/* Salesiq image class end here*/
+/* Crm future update Widget start here */
+.ltst-fture {
+   text-decoration: none;
+   display: block;
+}
+.ltst-fture img {
+   vertical-align: middle;
+}
+.ltst-fture .hglt-txt {
+   font-size: 16px;
+   font-weight:600;
+   color: #0067ff;
+   padding-left: 10px;
+   vertical-align: middle
+}
+/* Crm future update Widget end here */
+/* Submit a ticket page issue */
+.departmentList .TitleContainer__formInfo .Button__primary{
+      border-radius: 0.1875rem;
+    padding:0.1875rem 0.625rem; 
+    display: inline-block;
+    text-transform: none;
+   background-color:#fff;
+   border:1px solid #f0483e;
+   color:#f0483e;
+   font-weight:bold;
+   transition:all 0.2s
+}
+.departmentList .TitleContainer__formInfo .Button__primary:hover{
+   background-color:#f0483e;
+   border:1px solid #f0483e;
+   color:#fff;
+}
+.TitleContainer__formCount{
+   display:none;
+}
+/* Submit a ticket page issue end here */
+.home .tooltip-text a{
+   color:#0185f2; 
+}
+/* Field used in CRM Plus Asap. No need to show in help centre form */
+#field_cf_crm_plus_plan_identifier{
+   display:none;
+}
+
+/*Zoho Show getting start widget*/
+.show_lftTree_widget,.show_contarea_widget{width: 100%;border : 2px solid #456AD3;border-radius:5px;background: #fff;box-sizing: border-box}
+.show_lftTree_widget p,.show_contarea_widget p{margin: 0 0}
+.show_lftTree_widget .widget_cont{padding:25px 25px 0 25px;text-align: center}
+.show_lftTree_widget .show_logo{text-align: left}
+.show_lftTree_widget .Widget_hd{font-size : 21px;color : #3152C6;letter-spacing : 0px;padding-top:15px}
+.show_lftTree_widget .widget_des,.show_contarea_widget .widget_des,
+.show_lftTree_widget .Widget_hd,.show_contarea_widget .Widget_hd{font-weight: 700;line-height: normal}
+.show_lftTree_widget .Widget_hd,.show_contarea_widget .Widget_hd{font-family: "Latoheavy",sans-serif;line-height: 30px}
+.show_lftTree_widget .widget_des,.show_contarea_widget .widget_des,
+.show_contarea_widget .widget_btn a,.show_lftTree_widget .widget_btn a{font-family: "Latosemibold",sans-serif}
+.show_lftTree_widget .widget_des{padding:8px 0 15px;font-size : 13px;color : #323232;letter-spacing : 0px;line-height: 20px;}
+.show_lftTree_widget .widget_des span{display: block}
+.show_contarea_widget .widget_btn,.show_lftTree_widget .widget_btn{margin:0 auto;display: inline-block;background : #DE4E46;
+  box-shadow : 0px 4px 4px rgba(0, 0, 0, 0.1);border-radius:8px;position: relative;z-index: 1}
+.show_contarea_widget .widget_btn a,.show_lftTree_widget .widget_btn a{color:#fff;font-size:14px;text-decoration:none;padding:12px 25px;
+   display: block}
+.widget_btn br{display: none}   
+.show_lftTree_widget .widget_banner{position: relative;margin-top: -8px;text-align: center}
+.show_lftTree_widget .show_logo img,.show_contarea_widget .show_logo div img{width:80px}
+.show_contarea_widget{padding:25px 30px;display: flex;align-items:center;justify-content: center;position: relative}
+.show_contarea_widget .Widget_hd{font-size : 27px;color : #3152C6;line-height:40px}
+.show_contarea_widget .widget_des{font-size : 18px;color : #323232;padding:10px 0}
+.show_contarea_widget .widget_btn{margin-top: 10px}
+.show_contarea_widget .widget_desc_div{width:50%;text-align: center;position: relative;padding-left:50px}
+.show_contarea_widget .show_logo{position: absolute;left: 30px;bottom:25px;height:25px}
+.show_contarea_widget .show_logo.sign_logo{top:25px;bottom:inherit}
+.show_contarea_widget .widget_banner{width: 50%;text-align: center}
+.show_contarea_widget .widget_banner img{max-width: 85%!important}
+
+@media screen and (max-width:1253px){
+  .show_lftTree_widget .Widget_hd, .show_contarea_widget .Widget_hd{line-height:30px}
+}
+@media screen and (max-width:1204px){
+  .show_contarea_widget .widget_desc_div{padding-left: 0}
+}
+@media screen and (max-width:1096px){
+  .show_contarea_widget .show_logo{bottom: inherit;top: 25px}
+  .show_contarea_widget{padding-top: 55px}
+  .show_contarea_widget .Widget_hd{font-size: 22px}
+  .show_contarea_widget .widget_des{font-size: 13px;padding: 5px 0 10px}
+}
+@media screen and (max-width:999px){
+  .show_lftTree_widget .widget_cont{padding: 25px 10px 0}
+
+}
+@media screen and (max-width:768px){
+  .show_lftTree_widget .widget_cont{padding: 25px 25px 0}
+  .show_lftTree_widget{max-width: 400px;margin: 0 auto}
+}
+@media screen and (max-width:655px){
+  .show_contarea_widget{flex-flow: row wrap}
+  .show_contarea_widget .show_logo,
+  .show_contarea_widget .widget_desc_div,
+  .show_contarea_widget .widget_banner{width:100%}
+  .show_contarea_widget .show_logo{position: static;height: 25px;margin-bottom: 18px}
+  .show_contarea_widget .show_logo div{position: static}
+  .show_contarea_widget .widget_banner{padding-top:25px;text-align: center}
+  .show_contarea_widget .Widget_hd,.show_lftTree_widget .Widget_hd{font-size: 27px}
+  .show_contarea_widget .widget_des{font-size: 15px}
+  .show_contarea_widget{padding: 25px 20px}
+}
+@media screen and (max-width: 405px){
+  .show_contarea_widget .Widget_hd, .show_lftTree_widget .Widget_hd {font-size: 20px}
+  .show_contarea_widget .widget_des{font-size: 13px}
+}
+/*Zoho Show getting start widget*/
+@media only screen and (max-width:769px){
+      .home .WidgetsContainer__widgetCont li:nth-child(1){
+         display:none; 
+     } 
+      .WidgetsContainer__widgetCont li:nth-child(1){
+         display:block; 
+     } 
+}
+/* Sivanesh 3field hide from add ticket form style start here */
+.ticketForm #field_cf_nature_of_ticket, .ticketForm #field_cf_request_from, .ticketForm #field_cf_source{
+display:none;
+}
+/* Sivanesh 3field hide from add ticket form style end here */
+/* Zoho cliq paragraph related issue start here */
+.zohocliq .ArticleDetailLeftContainer__contents p p{
+   padding:0px; 
+}
+/* Zoho cliq paragraph related issue end here */
+.deutsche_community{
+   Display:none;
+}
+.deutschezohocommunity .deutsche_community{
+  display:block;
+}
+
+
+/* Zoho flow style start here */
+.zohoflow .zf-container,.forms .zap-inner-container{
+   width:100% !important
+}
+.zf-button a{
+   color:#fff
+}
+/* Zoho flow styles end here */
+.footer-wrapper-ja{
+ display:none 
+}
+.ja .footer-wrapper-ja{
+ display:block 
+}
+.france_resources{
+    display: none;
+}
+.communityList.zohocommunityfrance .france_resources{
+    display: block;
+}
+.communityDetail.zohocommunityfrance .france_resources{
+    display: block;
+}
+
+.espanol_zoho_community_community_banner{
+    display: none;
+}
+.communityList.españolzohocommunity .espanol_zoho_community_community_banner{
+    display: block;
+}
+.communityDetail.españolzohocommunity .espanol_zoho_community_community_banner{
+    display: block;
+}
+
+.france_zugs{
+    display: none;
+}
+.communityList.zohocommunityfrance .france_zugs{
+    display: block;
+}
+.communityDetail.zohocommunityfrance .france_zugs{
+    display: block;
+}
+.crm-slide-main{
+    height: 285px !important;
+}
+.crm-slide-con{
+  
+   height: 285px !important;
+   border: none !important;
+   padding: 0px !important; 
+   border-radius: 0px !important; 
+  
+}
+.communityDetail.zohoone .zoho_app_inetgrations{
+     display: none;
+}
+.communityList.zohoone .zoho_app_inetgrations{
+    display: none;
+}
+.japan_desk{
+    display: none;
+}
+.communityDetail.zohojapancommunity.zohodesk .japan_desk{
+    display: block;
+}
+.communityList.zohojapancommunity.zohodesk .japan_desk{
+    display: block;
+}
+.hc_mention a div,.hc_mention a span{
+ color:#3e7af7
+}
+.userProfile .ProfileRightContainer__container{
+ margin-top:21px; 
+}
+/* Mobile responsive issues start here */
+@media only screen and (max-width:768px){
+  .Popup__bottomRight {
+    right: 0px;
+}
+  .ticketList  .TicketListLeftContainer1__filterArea{
+   margin-top:10px; 
+  }
+  .Header__defaultContent .Header__titleSearchBox:not(.home){
+    padding-top: 1.5rem;
+  }
+  .Header__defaultContent .Header__banneralt:not(.home){
+    min-height:0px;
+  }
+  .BreadCrumbs__breadcrumbList:not(.home){
+   padding-bottom:0px; 
+  }
+  .zc-product-panel ul li:nth-child(1) {
+    display: inline-flex !important;
+    padding-top: 15px;
+}
+}
+/* Mobile responsive issues end here */
+/* Video responsive case css start here */
+@media only screen and (max-width:768px){
+.articleDetail iframe[sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-popups allow-downloads"],
+.communityDetail iframe[sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-popups allow-downloads"]{
+  width:100% !important;
+  height: 190px;
+}
+}
+/* Video responsive case css end here */
+.Header__homeNavbarFixed ~ div #suites {
+    Margin-top: 124px;
+}
+@media only screen and (max-width:769px){
+ .Header__homeNavbarFixed ~ div #suites {
+    Margin-top: 103px;
+} 
+}
